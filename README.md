@@ -1,27 +1,122 @@
-# 💫 About Me:
-👋 Hello! I'm a 2nd-year BTech CSE student at Shobhit University with a passion for technology and a drive to explore various domains of computer science. Currently, I’m diving deep into the world of AI and ML while honing my skills as a MERN Stack developer.<br><br>🌐 Technologies I Love:<br><br>Programming Languages: C, C++, Python, JavaScript<br>Web Development: MERN Stack (MongoDB, Express.js, React, Node.js)<br>AI & ML: Exploring machine learning algorithms and AI applications<br>Cybersecurity: Intrigued by the challenges of keeping systems secure<br>🚀 Projects:<br><br>ToDo List:  A simple yet effective task management application.<br>Weather App: Provides real-time weather updates and forecasts.<br>Portfolio: Showcases my skills, projects, and achievements.<br>Chat App: A real-time chat application for seamless communication.<br>Online Banking System: A secure banking system built using Python.<br>🔭 Current Focus: I'm currently expanding my knowledge in AI and machine learning, while also delving into cybersecurity to understand how to protect systems from vulnerabilities.<br><br>💬 Let's Connect: Feel free to explore my repositories, contribute to projects, or reach out for collaborations. I'm always open to new ideas and opportunities to learn and grow in the tech world!
+# Hi, I'm Kshitij Raj 👋
 
+## 🚀 About Me
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kshitij_raj.08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitij-raj-287106292) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KshitijRaj01) 
+I'm a B.Tech Computer Science student passionate about building scalable web applications and exploring web security.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%2320232a.svg?style=for-the-badge&logo=php&logoColor=993be) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kshitij-Raj-01&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kshitij-Raj-01&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij-Raj-01&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kshitij-Raj-01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kshitij-Raj-01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 💻 Full-Stack Developer specializing in the MERN Stack
+- 🔒 Learning Web Application Security and Bug Hunting
+- 🤖 Exploring AI-powered applications and Machine Learning
+- 🌱 Continuously improving Data Structures, Algorithms, and Backend Development
+- 🎯 Seeking Software Engineering, Full-Stack Development, and Cybersecurity opportunities
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kshitij-Raj-01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+### Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+![Figma](https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma)
+
+---
+
+## 🔥 Featured Projects
+
+### 🛒 E-Commerce Platform
+A production-focused MERN application with:
+- Authentication & Authorization
+- Admin Dashboard
+- Product Management
+- Order Management
+
+### 💬 Real-Time Chat Application
+Built using React, Node.js, and Socket.io.
+- Real-time messaging
+- User authentication
+- Responsive UI
+
+### 🏦 Online Banking System
+Python-based banking application featuring:
+- Secure user authentication
+- Transaction management
+- Account operations
+
+### 🌦️ Weather Application
+Weather forecasting application using external APIs.
+- Real-time weather data
+- Location-based forecasts
+- Clean UI
+
+---
+
+## 🔒 Cybersecurity Journey
+
+Currently learning and practicing:
+
+- OWASP Top 10
+- Web Application Security Testing
+- Burp Suite
+- PortSwigger Web Security Academy Labs
+- Bug Bounty Methodology
+- Authentication & Access Control Vulnerabilities
+- IDOR, XSS, SQL Injection, CSRF
+
+---
+
+## 📚 Currently Learning
+
+- Advanced React & Next.js
+- Backend System Design
+- Docker & Containerization
+- API Security
+- AI & Machine Learning
+- Bug Hunting
+
+---
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Kshitij-Raj-01&show_icons=true&theme=github_dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kshitij-Raj-01&theme=github_dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij-Raj-01&layout=compact&theme=github_dark)
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kshitij-raj-287106292)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kshitij_raj.08)
+
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://x.com/KshitijRaj01)
+
+---
+
+### 💡 Philosophy
+
+> Build. Break. Learn. Secure. Repeat.
+
+⭐ If you find any of my projects useful, feel free to star the repository.
